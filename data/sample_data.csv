@@ -1,0 +1,11 @@
+feature_numeric,feature_category,target
+23.5,A,1
+18.2,B,0
+45.1,A,1
+32.7,C,0
+29.8,B,1
+41.3,A,1
+15.6,C,0
+38.9,B,1
+27.4,A,0
+35.2,C,1
