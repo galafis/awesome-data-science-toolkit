@@ -1,0 +1,33 @@
+# Data Science Toolkit Requirements
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipython>=7.0.0
+
+# Deep Learning (optional)
+torch>=1.10.0
+tensorflow>=2.8.0
+
+# Data Processing
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Utilities
+tqdm>=4.60.0
+requests>=2.25.0
+
+# Testing and Development
+pytest>=6.0.0
+pytest-cov>=3.0.0
+black>=21.0.0
+flake8>=4.0.0
